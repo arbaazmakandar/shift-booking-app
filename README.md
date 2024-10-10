@@ -9,5 +9,7 @@ The website has been implemented with react-hot-toast to show notifications for 
 Project video:-
 
 
-https://github.com/user-attachments/assets/85022f1e-9f2c-4853-9920-e1a80dd577d2
+
+
+https://github.com/user-attachments/assets/3653888d-0929-4c40-8a9a-88f764bb6b35
 
