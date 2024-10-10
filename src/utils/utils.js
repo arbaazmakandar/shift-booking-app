@@ -50,7 +50,7 @@ export const groupShiftsByDateOnly = (shifts) => {
     if (!groupedShifts[date]) {
       groupedShifts[date] = [];
     }
-    
+
     groupedShifts[date].push(shift);
   });
 
